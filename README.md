@@ -48,4 +48,3 @@ I'm currently busy learning and focusing on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraajb&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuvraajb&theme=tokyonight&hide_border=true)
