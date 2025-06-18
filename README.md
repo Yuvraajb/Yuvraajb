@@ -30,7 +30,6 @@ I'm all about leveling up my tech game—whether it's cracking new programming l
 An AI-powered tool designed to simplify the research process—gathering, summarizing, and analyzing info faster.
 
 **Tech Stack:** Python, Machine Learning, AI concepts  
-[🔗 Check out the Project](#) <!-- Add real link here -->
 
 ---
 
@@ -38,7 +37,6 @@ An AI-powered tool designed to simplify the research process—gathering, summar
 A full-fledged web application developed during the IntelHack hackathon.
 
 **Tech Stack:** JavaScript, HTML, CSS  
-[🔗 Check out the Project](#) <!-- Add real link here -->
 
 ---
 
@@ -53,8 +51,7 @@ A full-fledged web application developed during the IntelHack hackathon.
 
 ## 📫 Let's Connect!
 
-- **GitHub**: [@Yuvraajb](https://github.com/Yuvraajb)
-- **Website**: _Your Website Link Here_ (if applicable)
+- **Website**: https://yuvraajb.github.io/
 
 ---
 
