@@ -5,13 +5,13 @@
 
 ---
 
-## 🚀 What I'm About  
+## What I'm About  
 Right now, I'm super focused on boosting my tech knowledge and skills across all sorts of programming stuff.  
 I truly believe in always learning new things and just love diving into fresh challenges.
 
 ---
 
-## 💻 My Tech Toolbox  
+## My Tech Toolbox  
 Here are some of the cool technologies and languages I'm currently working with:
 
 - **Languages:** C++, Python, Swift  
@@ -20,7 +20,7 @@ Here are some of the cool technologies and languages I'm currently working with:
 
 ---
 
-## ✨ Awesome Projects  
+## Awesome Projects  
 
 ### 🔍 Research Assistant AI Agent  
 An AI-powered research assistant, built to make gathering info and analyzing it way smoother and faster!  
