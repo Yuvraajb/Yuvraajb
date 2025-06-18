@@ -1,58 +1,69 @@
-# Hey there, I'm Yuvraaj! 👋
+Got it — you want your README styled similarly to ForrestKnight's: with a **cool ASCII island + tree at the top**, a **short and punchy "About Me"**, and **GitHub stats** at the bottom.
 
-🛡️ **Intel Student Ambassador**  
-Welcome to my GitHub spot! Here's a quick look at what I've been up to and what I can do.
-
----
-
-## 🚀 What I'm About
-
-I'm all about leveling up my tech game—whether it's cracking new programming languages or experimenting with emerging tools. I thrive on challenges and love exploring new concepts to build cool, useful stuff.
+Here's your updated, clean, and polished README:
 
 ---
 
-## 💻 My Tech Toolbox
+```markdown
+<!-- ASCII Island Tree -->
+```
 
-**Languages**  
-`C++` • `Python` • `Swift`
+```
+     _.-^^---....,,--       
+ _--                  --_  
+<                        >)
+/~--~~---._||_||_.---~~--~\ 
+|        ||     ||        |    
+ \._                   _./   
+    '''--. . , ; .--'''       
+          | |   |             
+       .-=||  | |=-.           
+       '-=#$%&%$#=-'           
+          | ;  :|     
+ _____.,-#%&$@%#&#~,._____
+```
 
-**AI/ML & Frameworks**  
-`LangChain` • `Machine Learning` • `AI Principles`
+# Yuvraaj Bhatter
 
-**Version Control**  
-`Git` • `GitHub`
-
----
-
-## ✨ Awesome Projects
-
-### 🔬 Research Assistant AI Agent  
-An AI-powered tool designed to simplify the research process—gathering, summarizing, and analyzing info faster.
-
-**Tech Stack:** Python, Machine Learning, AI concepts  
-
----
-
-### 🌐 IntelHack Web Application  
-A full-fledged web application developed during the IntelHack hackathon.
-
-**Tech Stack:** JavaScript, HTML, CSS  
+🛡️ *Intel Student Ambassador* | 🧠 Builder of Practical AI | 🚀 Always Learning
 
 ---
 
-## 🌱 What I'm Working On
+## About Me
 
-- **C++**: Pushing deeper into system-level and performance-based development.
-- **Python**: Diving into advanced use cases like machine learning and robust backend dev.
-- **Front-End Development**: Leveling up HTML/CSS/JS skills for responsive, interactive UI/UX.
-- **Mobile App Development**: Learning Swift to build slick iOS/macOS apps.
+Hi, I’m Yuvraaj — I love building things that solve real problems. Whether it’s AI, web apps, or system-level tools, I enjoy getting into the weeds and figuring out how stuff works. I’m currently diving deep into AI, Swift dev, and performance programming with C++.
 
 ---
 
-## 📫 Let's Connect!
+## 🔧 Tech Stack
 
-- **Website**: https://yuvraajb.github.io/
+* **Languages:** C++, Python, Swift
+* **Tools:** Git, GitHub, VS Code
+* **Focus Areas:** AI/ML, Front-End Dev, iOS Apps
 
 ---
 
-> Always building. Always learning. Always curious. 🚀
+## 📊 GitHub Stats
+
+<!-- GitHub Stats -->
+
+![Yuvraaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvraajb\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+<!-- Top Languages -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraajb\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+<!-- Streak Stats -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuvraajb\&theme=tokyonight\&hide_border=true)
+
+---
+
+> `code, learn, repeat — and don’t forget to ship.`
+
+```
+
+---
+
+You can now copy this into your `README.md`. Want to add a terminal-style welcome message like ForrestKnight's "Welcome to my interactive web terminal"? I can generate that too.
+```
