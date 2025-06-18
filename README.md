@@ -1,7 +1,7 @@
 # Hey there, I'm Yuvraaj! 👋  
 🛡️ **Intel Student Ambassador**  
 
-Welcome to my GitHub spot! Here's a quick look at what I've been up to and what I can do.
+- **Website:** www.yuvraajb.github.io
 
 ---
 
@@ -39,15 +39,7 @@ I'm currently busy learning and focusing on:
 - **Python:** Advanced backend systems and ML/data science  
 - **Front-End:** Sharpening HTML, CSS, JavaScript  
 - **Swift:** Building iOS and macOS apps  
-
----
-
-## 📫 Let's Connect!  
-I'm always up for teaming up on interesting projects or just chatting about new tech ideas.
-
-- **GitHub:** [@Yuvraajb](https://github.com/Yuvraajb)  
-- **Website:** _Your Website Link Here (if applicable)_
-
+ 
 ---
 
 ## 📊 GitHub Stats  
