@@ -30,17 +30,6 @@ An AI-powered research assistant, built to make gathering info and analyzing it 
 A complete web app I put together during the IntelHack hackathon.  
 **Main Tech Used:** JavaScript, HTML, CSS  
 
----
-
-## 🌱 What's Next for Me  
-I'm currently busy learning and focusing on:
-
-- **C++:** High-performance and system-level coding  
-- **Python:** Advanced backend systems and ML/data science  
-- **Front-End:** Sharpening HTML, CSS, JavaScript  
-- **Swift:** Building iOS and macOS apps  
- 
----
 
 ## 📊 GitHub Stats  
 
