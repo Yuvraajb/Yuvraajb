@@ -11,7 +11,7 @@ I truly believe in always learning new things and just love diving into fresh ch
 
 ---
 
-## My Tech Toolbox  
+## Languages and skills 
 Here are some of the cool technologies and languages I'm currently working with:
 
 - **Languages:** C++, Python, Swift  
