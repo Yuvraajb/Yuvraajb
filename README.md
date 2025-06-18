@@ -1,52 +1,61 @@
-Hi there, I'm Yuvraaj! 👋
-🛡️ Intel Student Ambassador
-Welcome to my GitHub profile! I'm a passionate developer constantly learning and building.
+# Hey there, I'm Yuvraaj! 👋
 
-🚀 About Me
-I'm currently focusing on expanding my knowledge and skills in various programming domains. I believe in continuous learning and enjoy tackling new challenges.
+🛡️ **Intel Student Ambassador**  
+Welcome to my GitHub spot! Here's a quick look at what I've been up to and what I can do.
 
-💻 Technical Skills
-Here are some of the technologies and languages I'm working with:
+---
 
-Languages: C++, Python, Swift
+## 🚀 What I'm About
 
-AI/ML & Frameworks: LangChain, AI/Machine Learning Frameworks
+I'm all about leveling up my tech game—whether it's cracking new programming languages or experimenting with emerging tools. I thrive on challenges and love exploring new concepts to build cool, useful stuff.
 
-Version Control: Git, GitHub
+---
 
-✨ Notable Projects
-Here are a couple of projects that showcase my work:
+## 💻 My Tech Toolbox
 
-Research Assistant AI Agent
+**Languages**  
+`C++` • `Python` • `Swift`
 
-An AI-powered research assistant designed to automate information gathering and analysis.
+**AI/ML & Frameworks**  
+`LangChain` • `Machine Learning` • `AI Principles`
 
-Key technologies used: Python, AI/ML concepts
+**Version Control**  
+`Git` • `GitHub`
 
-Link to Project Repository
+---
 
-IntelHack Web Application
+## ✨ Awesome Projects
 
-A web-based application developed during the IntelHack hackathon.
+### 🔬 Research Assistant AI Agent  
+An AI-powered tool designed to simplify the research process—gathering, summarizing, and analyzing info faster.
 
-Key technologies used: JavaScript, HTML, CSS
+**Tech Stack:** Python, Machine Learning, AI concepts  
+[🔗 Check out the Project](#) <!-- Add real link here -->
 
-Link to Project Repository
+---
 
-🌱 What I'm Learning / Currently Focused On
-I am actively working on and learning:
+### 🌐 IntelHack Web Application  
+A full-fledged web application developed during the IntelHack hackathon.
 
-Deepening my expertise in C++ for system-level programming and performance optimization.
+**Tech Stack:** JavaScript, HTML, CSS  
+[🔗 Check out the Project](#) <!-- Add real link here -->
 
-Exploring advanced concepts in Python for data science, machine learning, or backend development.
+---
 
-Enhancing my front-end development skills with HTML/CSS/JS to build more interactive and responsive web applications.
+## 🌱 What I'm Working On
 
-Venturing into Swift for mobile application development (iOS/macOS).
+- **C++**: Pushing deeper into system-level and performance-based development.
+- **Python**: Diving into advanced use cases like machine learning and robust backend dev.
+- **Front-End Development**: Leveling up HTML/CSS/JS skills for responsive, interactive UI/UX.
+- **Mobile App Development**: Learning Swift to build slick iOS/macOS apps.
 
-📫 Connect with Me
-I'm always open to collaborating on interesting projects or discussing new ideas!
+---
 
-GitHub: Yuvraajb
+## 📫 Let's Connect!
 
-Website: Your Website Link Here (if applicable)
+- **GitHub**: [@Yuvraajb](https://github.com/Yuvraajb)
+- **Website**: _Your Website Link Here_ (if applicable)
+
+---
+
+> Always building. Always learning. Always curious. 🚀
