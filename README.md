@@ -1,7 +1,7 @@
 # Hey there, I'm Yuvraaj! 👋  
 🛡️ **Intel Student Ambassador**  
 
-- **Website:** yuvraajb.github.io
+- **Website:** #yuvraajb.github.io
 
 ---
 
@@ -17,19 +17,6 @@ Here are some of the cool technologies and languages I'm currently working with:
 - **Languages:** C++, Python, Swift  
 - **AI/ML & Frameworks:** LangChain, Machine Learning, AI principles  
 - **Version Control:** Git, GitHub  
-
----
-
-## Awesome Projects  
-
-### 🔍 Research Assistant AI Agent  
-An AI-powered research assistant, built to make gathering info and analyzing it way smoother and faster!  
-**Main Tech Used:** Python, AI, Machine Learning  
-
-### 💻 IntelHack Web Application  
-A complete web app I put together during the IntelHack hackathon.  
-**Main Tech Used:** JavaScript, HTML, CSS  
-
 
 ## 📊 GitHub Stats  
 
