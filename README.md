@@ -1,7 +1,7 @@
 # Hey there, I'm Yuvraaj! 👋  
 🛡️ **Intel Student Ambassador**  
 
-- **Website:** [Link Text](https://yuvraajb.github.io)
+- **Website:** [My website](https://yuvraajb.github.io)
 
 ---
 
