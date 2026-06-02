@@ -2,27 +2,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d2151,100:0a2472&height=170&section=header&text=Yuvraaj%20Bhatter&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Apple%20Swift%20Student%20Challenge%20Winner%20%E2%80%A2%203x%20Hackathon%20Winner%20%E2%80%A2%20CS%20%40%20Santa%20Clara&descAlignY=58&descSize=15" />
 
-<a href="https://github.com/Yuvraajb">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=19&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=720&lines=Apple+Swift+Student+Challenge+2026+Winner+%F0%9F%8F%86;Invited+to+Apple+Park+for+WWDC26;Quant+Researcher+%7C+AI+Engineer+%7C+Full-Stack;3x+Hackathon+Winner+%E2%80%94+ElevenLabs+%7C+AWS+%7C+SCU+AI+Collab;%22Building+the+future%2C+one+app+at+a+time.%22" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/-yuvraaj--bhatter-181717?style=flat-square&logo=github)](https://github.com/yuvraaj-bhatter)
-[![LinkedIn](https://img.shields.io/badge/-yuvraaj--bhatter-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yuvraajbhatter)
-[![Portfolio](https://img.shields.io/badge/-yuvraajb.github.io-2563EB?style=flat-square&logo=safari&logoColor=white)](https://yuvraajb.github.io)
-[![Email](https://img.shields.io/badge/-yuvraajbhatter10%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yuvraajbhatter10@gmail.com)
-
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+<sub>📍 San Francisco, CA &nbsp;·&nbsp; CS @ Santa Clara University &nbsp;·&nbsp; Intel & Perplexity Student Ambassador</sub>
+
 </div>
 
----
-
-📍 **San Francisco, CA** · 🎓 **CS @ Santa Clara University**
----
+I ship real software — iOS apps on the App Store, quant engines in production, and hackathon builds that win. Apple Swift Student Challenge 2026 winner (WWDC26 invite). 3x hackathon winner. Former quant researcher at a crypto trading firm. I move fast across the stack: on-device AI, backtesting systems, full-stack web, and everything in between.
 
 **iOS & Apple Platforms**
 - 🏆 **[artemis2](https://github.com/Yuvraajb/artemis2)** — *Swift Student Challenge 2026 Winner* — Artemis II mission sim; SceneKit 3D, Foundation Models crew chat, Core Haptics. Invited to Apple Park for WWDC26.
