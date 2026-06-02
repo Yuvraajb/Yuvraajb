@@ -117,44 +117,10 @@
 
 ---
 
-## ⚡ GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-<!-- SECTION HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,100:0d2151&height=3&section=header" />
-
-<!-- ROW 1: Full-width profile timeline -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraajb&theme=tokyonight" />
-
-<!-- ROW 2: Stats + Language breakdown (3 cards) -->
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraajb&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraajb&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuvraajb&theme=tokyonight" />
-
-<!-- ROW 3: Productive time + Streak side by side -->
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuvraajb&theme=tokyonight&utcOffset=-8" />
-<img width="55%" src="https://streak-stats.demolab.com/?user=Yuvraajb&theme=tokyonight&hide_border=true&background=1a1b27&ring=2563EB&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=2563EB&dates=ffffff" />
-
-<!-- ROW 4: Full-width area activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraajb&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=2563EB&line=0EA5E9&point=ffffff&area=true&area_color=0d2151&radius=6" />
-
-<!-- ROW 5: Trophies — 2 rows of 4 -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Yuvraajb&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
-
-<!-- ROW 6: ghchart contribution cross -->
-<br/>
-<b>Contribution Grid</b><br/>
-<img width="100%" src="https://ghchart.rshah.org/2563EB/Yuvraajb" />
-
-<!-- Profile views -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Yuvraajb&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Yuvraajb?style=for-the-badge&color=0EA5E9&labelColor=1a1b27&label=FOLLOWERS" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/Yuvraajb?style=for-the-badge&color=2563EB&labelColor=1a1b27&label=TOTAL+STARS" />
-
+<img src="https://streak-stats.demolab.com/?user=Yuvraajb&theme=tokyonight&hide_border=true&background=1a1b27&ring=2563EB&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=2563EB&dates=ffffff" />
 </div>
 
 ---
