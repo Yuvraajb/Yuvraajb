@@ -12,70 +12,61 @@
 [![LinkedIn](https://img.shields.io/badge/-yuvraaj--bhatter-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yuvraajbhatter)
 [![Portfolio](https://img.shields.io/badge/-yuvraajb.github.io-2563EB?style=flat-square&logo=safari&logoColor=white)](https://yuvraajb.github.io)
 [![Email](https://img.shields.io/badge/-yuvraajbhatter10%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yuvraajbhatter10@gmail.com)
-[![Location](https://img.shields.io/badge/-San%20Francisco%2C%20CA-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=San+Francisco,CA)
-[![Intel](https://img.shields.io/badge/-Intel%20Ambassador-0071C5?style=flat-square&logo=intel&logoColor=white)](https://www.intel.com)
-[![Perplexity](https://img.shields.io/badge/-Perplexity%20Ambassador-20808A?style=flat-square&logo=perplexity&logoColor=white)](https://perplexity.ai)
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
 ---
 
-📍 **San Francisco, CA** | 🎓 **CS @ Santa Clara University** (graduating 2027) | Quant intern, iOS builder, hackathon winner, AI tinkerer. I build across the stack — from on-device Apple Intelligence to crypto backtesting engines to full-stack web apps. Currently building AI tooling for SCU's AI Club and SCIF, and shipping to the App Store.
+📍 **San Francisco, CA** · 🎓 **CS @ Santa Clara University** · **Intel & Perplexity Student Ambassador**
+
+I ship real software — iOS apps on the App Store, quant engines in production, and hackathon builds that win. Apple Swift Student Challenge 2026 winner (WWDC26 invite). 3x hackathon winner. Former quant researcher at a crypto trading firm. I move fast across the stack: on-device AI, backtesting systems, full-stack web, and everything in between.
 
 ---
 
-## iOS & Apple Platforms
+**iOS & Apple Platforms**
+- 🏆 **[artemis2](https://github.com/Yuvraajb/artemis2)** — *Swift Student Challenge 2026 Winner* — Artemis II mission sim; SceneKit 3D, Foundation Models crew chat, Core Haptics. Invited to Apple Park for WWDC26.
+- 🥇 **[H4H-2026](https://github.com/Yuvraajb/H4H-2026)** — *ElevenLabs Track Winner* — CRIS.ai, real-time AI crisis voice pipeline (STT → Groq → ElevenLabs TTS)
+- 🚀 **[artemis](https://github.com/Yuvraajb/artemis)** — Early Mission Artemis Swift prototype
 
-- 🏆 **[artemis2](https://github.com/Yuvraajb/artemis2)** — *Apple Swift Student Challenge 2026 Winner* — Interactive Artemis II lunar mission simulator. Cinematic onboarding, SceneKit 3D, Swift Charts telemetry, Core Haptics, on-device crew chat via Foundation Models. Invited to Apple Park for WWDC26.
-- 🚀 **[artemis](https://github.com/Yuvraajb/artemis)** — Earlier Mission Artemis prototype in Swift
-- 🥇 **[H4H-2026](https://github.com/Yuvraajb/H4H-2026)** — *ElevenLabs Track Winner at Hack4Humanity* — CRIS.ai: real-time AI crisis response system. Streaming STT → Groq LLM inference → ElevenLabs neural TTS, multi-turn stateful voice pipeline. (Hosted by SCU ACM; sponsored by AMD & ByteDance)
+**Hackathon Builds**
+- 🥇 **[Homeability.ai](https://github.com/Yuvraajb/Homeability.ai)** — *3rd overall, AWS × INRIX Hackathon* — LLM housing accessibility analyzer on Bedrock + Lambda
+- 🥇 **[AIC-Hackathon-2025](https://github.com/Yuvraajb/AIC-Hackathon-2025)** — *Best Entrepreneurial Award, Hack a Stack @ SCU AI Collab* — Adobe × SCU AI hackathon
+- 🔒 **[safeCT](https://github.com/Yuvraajb/safeCT)** — Campus safety app; incident reporting + live location sharing
+- ⚡ **[intelHack](https://github.com/Yuvraajb/intelHack)** — Intel hackathon (Python)
+- 🧪 **[YC-hack](https://github.com/Yuvraajb/YC-hack)** / **[yc-hack-2025](https://github.com/Yuvraajb/yc-hack-2025)** — YC hackathon builds (TypeScript)
 
-## Hackathon Builds
+**AI & Machine Learning**
+- 🤖 **[research_assistant_ai_agent](https://github.com/Yuvraajb/research_assistant_ai_agent)** — AI research assistant agent
+- 🧪 **[unit-test-generator-ollama](https://github.com/Yuvraajb/unit-test-generator-ollama)** — Auto-generates + fixes Google Test unit tests for C++ via LLM + YAML
+- 🎙️ **[MARCH](https://github.com/Yuvraajb/MARCH)** — Fully local Ollama voice assistant
+- 📊 **[stock-prediction](https://github.com/Yuvraajb/stock-prediction)** — Stock prediction with Random Forest Regressor
+- ☀️ **[open-data-pvnet](https://github.com/Yuvraajb/open-data-pvnet)** — Solar forecasting with PVNet (OSIPI internship)
+- 🩺 **[OSIPI_CAPLEX](https://github.com/Yuvraajb/OSIPI_CAPLEX)** — Perfusion imaging pipelines (internship)
+- 🖥️ **[slidesAI](https://github.com/Yuvraajb/slidesAI)** — AI slides tooling (TypeScript)
+- 🧠 **[Research](https://github.com/Yuvraajb/Research)** — ML experiments scratchpad
 
-- 🥇 **[Homeability.ai](https://github.com/Yuvraajb/Homeability.ai)** — *3rd overall, AWS × INRIX Hackathon @ SCU* — LLM-powered housing accessibility analyzer. AWS Bedrock + Lambda, serverless inference pipeline for personalized recommendations from unstructured input
-- 🥇 **[AIC-Hackathon-2025](https://github.com/Yuvraajb/AIC-Hackathon-2025)** — *Best Entrepreneurial Award, Hack a Stack* — Built for Adobe × SCU AI Collaborative hackathon 2025, hosted by AI Collab @ SCU
-- 🔒 **[safeCT](https://github.com/Yuvraajb/safeCT)** — Campus safety app from hackathon: incident reporting, live location sharing with trusted contacts, emergency resources. Built the web interface (HTML/CSS); team built iOS in Swift
-- ⚡ **[intelHack](https://github.com/Yuvraajb/intelHack)** — Intel hackathon project (Python)
-- 🧪 **[YC-hack](https://github.com/Yuvraajb/YC-hack)** / **[yc-hack-2025](https://github.com/Yuvraajb/yc-hack-2025)** — YC-themed hackathon builds in TypeScript
+**Quant & Finance**
+- 📉 **[mean-reversion-backtester](https://github.com/Yuvraajb/mean-reversion-backtester)** — Mean reversion backtesting engine; Sharpe, drawdown, regime analysis (Crypt0nest internship)
 
-## AI & Machine Learning
+**Full Stack & Web**
+- 🌐 **[yuvraajb.github.io](https://github.com/Yuvraajb/yuvraajb.github.io)** — Personal portfolio site
+- 📦 **[Item-Manager](https://github.com/Yuvraajb/Item-Manager)** — Full-stack CRUD: Node.js/Express + SQLite + React
+- 🧪 **[Item-Manager-API-...](https://github.com/Yuvraajb/Item-Manager-API-Full-Stack-CRUD-App-with-Express-SQLite-and-React)** — Extended with unit, integration & API tests
+- 🔧 **[intelHack-new](https://github.com/Yuvraajb/intelHack-new)** — JS rebuild of Intel hackathon project
 
-- 🤖 **[research_assistant_ai_agent](https://github.com/Yuvraajb/research_assistant_ai_agent)** — AI research assistant agent in Python
-- 🧪 **[unit-test-generator-ollama](https://github.com/Yuvraajb/unit-test-generator-ollama)** — Automated unit test generator for C++ using LLMs (Ollama) and YAML instructions. Generates, refines, and fixes Google Test unit tests with coverage reporting
-- 🎙️ **[MARCH](https://github.com/Yuvraajb/MARCH)** — Local Ollama-powered voice assistant that runs fully on-device. Python, iteratively extended from open-source base
-- 📊 **[stock-prediction](https://github.com/Yuvraajb/stock-prediction)** — Stock prediction model using Random Forest Regressor
-- ☀️ **[open-data-pvnet](https://github.com/Yuvraajb/open-data-pvnet)** — Solar energy forecasting using PVNet on open data (from OSIPI internship)
-- 🩺 **[OSIPI_CAPLEX](https://github.com/Yuvraajb/OSIPI_CAPLEX)** — Perfusion imaging pipeline work from Software Engineering internship at Open Science Initiative for Perfusion Imaging
-- 🧠 **[Research](https://github.com/Yuvraajb/Research)** — ML research scratchpad and experiments
-- 🖥️ **[slidesAI](https://github.com/Yuvraajb/slidesAI)** — AI-powered slides tooling (TypeScript)
+**Systems & C++**
+- 🖥️ **[Terminal-based-Tic-Tac-Toe-game](https://github.com/Yuvraajb/Terminal-based-Tic-Tac-Toe-game)** — C++ terminal game
+- 📚 **[CSCI60](https://github.com/Yuvraajb/CSCI60)** / **[cs62-](https://github.com/Yuvraajb/cs62-)** — C++ coursework
 
-## Quant & Finance
-
-- 📉 **[mean-reversion-backtester](https://github.com/Yuvraajb/mean-reversion-backtester)** — Mean reversion strategy backtesting engine in Python. Built during quant internship at Crypt0nest alongside a full trade-by-trade engine with Sharpe, drawdown, and regime analysis
-
-## Full Stack & Web
-
-- 🌐 **[yuvraajb.github.io](https://github.com/Yuvraajb/yuvraajb.github.io)** — Personal website and portfolio
-- 📦 **[Item-Manager](https://github.com/Yuvraajb/Item-Manager)** — Full-stack CRUD app: Node.js/Express API, SQLite, React frontend. Supports add/edit/delete with full API documentation
-- 🧪 **[Item-Manager-API-Full-Stack-CRUD-App-with-Express-SQLite-and-React](https://github.com/Yuvraajb/Item-Manager-API-Full-Stack-CRUD-App-with-Express-SQLite-and-React)** — Extended version with unit tests, integration tests, and API tests
-- 🔧 **[intelHack-new](https://github.com/Yuvraajb/intelHack-new)** — Rebuilt Intel hackathon project in JavaScript
-
-## Systems & C++
-
-- ⚙️ **[unit-test-generator-ollama](https://github.com/Yuvraajb/unit-test-generator-ollama)** — LLM-powered C++ test generation (also listed in AI)
-- 🖥️ **[Terminal-based-Tic-Tac-Toe-game](https://github.com/Yuvraajb/Terminal-based-Tic-Tac-Toe-game)** — C++ terminal game for beginners
-- 📚 **[CSCI60](https://github.com/Yuvraajb/CSCI60)** — CSCI60 coursework (C++, Winter '25)
-- 🗂️ **[cs62-](https://github.com/Yuvraajb/cs62-)** — CS62 coursework (C++)
-
-## Tools & Scripts
-
-- 📒 **[Student_database](https://github.com/Yuvraajb/Student_database)** — Student record keeping app with tkinter UI and CSV storage
-- 📞 **[phone_book_python](https://github.com/Yuvraajb/phone_book_python)** — Phone book in Python, stores contacts as binary files
-- 🍩 **[Spnning_donut](https://github.com/Yuvraajb/Spnning_donut)** — Spinning donut rendered in Python with pygame, math, and colorsys
-- 🎮 **[Random-Ball-Collecting-Game](https://github.com/Yuvraajb/Random-Ball-Collecting-Game)** — Python game
-- 🎮 **[Simple-Tic-Tac-Toe-game-](https://github.com/Yuvraajb/Simple-Tic-Tac-Toe-game-)** — Pygame Tic Tac Toe
-- 🔢 **[Binary_search_algorithm_python](https://github.com/Yuvraajb/Binary_search_algorithm_python)** — Binary search implementation in Python
-- 🔄 **[Infix-to-postfix](https://github.com/Yuvraajb/Infix-to-postfix)** — Infix to postfix converter in Python
+**Tools & Scripts**
+- 📒 **[Student_database](https://github.com/Yuvraajb/Student_database)** — tkinter student records app with CSV storage
+- 🍩 **[Spnning_donut](https://github.com/Yuvraajb/Spnning_donut)** — ASCII spinning donut in Python
+- 🎮 **[Simple-Tic-Tac-Toe-game-](https://github.com/Yuvraajb/Simple-Tic-Tac-Toe-game-)** / **[Random-Ball-Collecting-Game](https://github.com/Yuvraajb/Random-Ball-Collecting-Game)** — Pygame games
+- 🔢 **[Binary_search_algorithm_python](https://github.com/Yuvraajb/Binary_search_algorithm_python)** / **[Infix-to-postfix](https://github.com/Yuvraajb/Infix-to-postfix)** — Algo implementations
 
 ---
 
