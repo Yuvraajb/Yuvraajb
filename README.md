@@ -12,6 +12,13 @@
 
 I ship real software — iOS apps on the App Store, quant engines in production, and hackathon builds that win. Apple Swift Student Challenge 2026 winner (WWDC26 invite). 3x hackathon winner. Former quant researcher at a crypto trading firm. I move fast across the stack: on-device AI, backtesting systems, full-stack web, and everything in between.
 
+**Start Here**
+- 🏆 **[artemis2](https://github.com/Yuvraajb/artemis2)** — *Swift Student Challenge 2026 Winner* — Artemis II mission sim; SceneKit 3D, Foundation Models crew chat, Core Haptics. Invited to Apple Park for WWDC26.
+- 🥇 **[H4H-2026](https://github.com/Yuvraajb/H4H-2026)** — *ElevenLabs Track Winner, Hack4Humanity* — CRIS.ai, real-time AI crisis voice pipeline (STT → Groq → ElevenLabs TTS)
+- 🥇 **[Homeability.ai](https://github.com/Yuvraajb/Homeability.ai)** — *3rd overall, AWS × INRIX Hackathon* — LLM housing accessibility analyzer on Bedrock + Lambda
+- 📉 **[mean-reversion-backtester](https://github.com/Yuvraajb/mean-reversion-backtester)** — Mean reversion engine with Sharpe, drawdown & regime analysis (Crypt0nest internship)
+- 🧪 **[unit-test-generator-ollama](https://github.com/Yuvraajb/unit-test-generator-ollama)** — Auto-generates + fixes Google Test unit tests for C++ via LLM + YAML
+
 **iOS & Apple Platforms**
 - 🏆 **[artemis2](https://github.com/Yuvraajb/artemis2)** — *Swift Student Challenge 2026 Winner* — Artemis II mission sim; SceneKit 3D, Foundation Models crew chat, Core Haptics. Invited to Apple Park for WWDC26.
 - 🥇 **[H4H-2026](https://github.com/Yuvraajb/H4H-2026)** — *ElevenLabs Track Winner* — CRIS.ai, real-time AI crisis voice pipeline (STT → Groq → ElevenLabs TTS)
