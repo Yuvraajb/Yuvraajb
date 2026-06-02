@@ -21,10 +21,7 @@
 
 ---
 
-📍 **San Francisco, CA** · 🎓 **CS @ Santa Clara University** · **Intel & Perplexity Student Ambassador**
-
-I ship real software — iOS apps on the App Store, quant engines in production, and hackathon builds that win. Apple Swift Student Challenge 2026 winner (WWDC26 invite). 3x hackathon winner. Former quant researcher at a crypto trading firm. I move fast across the stack: on-device AI, backtesting systems, full-stack web, and everything in between.
-
+📍 **San Francisco, CA** · 🎓 **CS @ Santa Clara University**
 ---
 
 **iOS & Apple Platforms**
